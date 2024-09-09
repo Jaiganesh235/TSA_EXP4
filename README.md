@@ -118,25 +118,25 @@ plt.show()
 
 
 # OUTPUT:
-1. SIMULATED ARMA(1,1) PROCESS:
+## SIMULATED ARMA(1,1) PROCESS:
 ![image](https://github.com/user-attachments/assets/0e763447-da5a-4593-9ecd-a8833634795f)
 
-2. Partial Autocorrelation
+## Partial Autocorrelation
 ![image](https://github.com/user-attachments/assets/1274a09d-ae47-4eb3-a9ad-9f17cdfc1678)
 
-3. Autocorrelation
+## Autocorrelation
 ![image](https://github.com/user-attachments/assets/7992cbd3-0d7f-416a-8a4b-46614c78a4f0)
 
 
-4. SIMULATED ARMA(2,2) PROCESS:
+## SIMULATED ARMA(2,2) PROCESS:
 ![image](https://github.com/user-attachments/assets/1a41d7de-cabc-4fe2-9a51-32d450ab1674)
 
 
-5. Partial Autocorrelation
+## Partial Autocorrelation
 ![image](https://github.com/user-attachments/assets/ce263902-be01-4163-9030-c571fcd6372e)
 
 
-6. Autocorrelation
+## Autocorrelation
 ![image](https://github.com/user-attachments/assets/75025fb8-23fd-4885-b16b-6a871adb1e7e)
 
 
